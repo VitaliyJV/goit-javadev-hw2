@@ -39,4 +39,5 @@ https://docs.github.com/en/actions/automating-builds-and-tests/building-and-test
 один PR в гілку main, і переконайсь, що Github Action запустивсь.
 
 Результат ДЗ - посилання на Github репозиторій з налаштованим Github Action.
++
  */
